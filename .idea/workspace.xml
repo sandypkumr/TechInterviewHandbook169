@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="14. Container With Most Water">
-      <change afterPath="$PROJECT_DIR$/src/arrays/GasStation.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="16. Longest Consecutive Sequence">
+      <change afterPath="$PROJECT_DIR$/src/arrays/LongestConsecutiveSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704712715934</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="15. Gas Station">
+      <option name="closed" value="true" />
+      <created>1704720313338</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704720313338</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +199,9 @@
     <MESSAGE value="12. Merge Intervals" />
     <MESSAGE value="13. Sort Colors" />
     <MESSAGE value="14. Container With Most Water" />
-    <option name="LAST_COMMIT_MESSAGE" value="14. Container With Most Water" />
+    <MESSAGE value="15. Gas Station" />
+    <MESSAGE value="16. Longest Consecutive Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="16. Longest Consecutive Sequence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
