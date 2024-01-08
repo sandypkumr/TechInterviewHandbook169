@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="10. Product of Array Except Self">
-      <change afterPath="$PROJECT_DIR$/src/arrays/CombinationSum.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="11. Combination Sum">
+      <change afterPath="$PROJECT_DIR$/src/arrays/MergeIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704686087375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="11. Combination Sum">
+      <option name="closed" value="true" />
+      <created>1704703349794</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704703349794</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +163,8 @@
     <MESSAGE value="8. Insert Interval" />
     <MESSAGE value="9. 3Sum" />
     <MESSAGE value="10. Product of Array Except Self" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. Product of Array Except Self" />
+    <MESSAGE value="11. Combination Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="11. Combination Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
