@@ -1,4 +1,4 @@
-package arrays;
+package array;
 
 public class GasStation {
     public int canCompleteCircuit(int[] gas, int[] cost) {

@@ -1,4 +1,4 @@
-package arrays;
+package array;
 
 public class SquaresOfASortedArray {
     public int[] sortedSquares(int[] nums) {
