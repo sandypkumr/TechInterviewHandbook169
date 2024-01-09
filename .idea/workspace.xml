@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="17. Rotate Array">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ContiguousArray.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="19. Subarray Sum Equals K">
+      <change afterPath="$PROJECT_DIR$/src/arrays/SubarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SubarraySumEqualsK.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -43,6 +44,26 @@
     "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SubarraySumEqualsK" />
+      <module name="TechInterviewHandbook169" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubarraySumEqualsK" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -187,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704725255323</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="18. Contiguous Array">
+      <option name="closed" value="true" />
+      <created>1704729754852</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729754852</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +247,9 @@
     <MESSAGE value="15. Gas Station" />
     <MESSAGE value="16. Longest Consecutive Sequence" />
     <MESSAGE value="17. Rotate Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="17. Rotate Array" />
+    <MESSAGE value="18. Contiguous Array" />
+    <MESSAGE value="19. Subarray Sum Equals K" />
+    <option name="LAST_COMMIT_MESSAGE" value="19. Subarray Sum Equals K" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
