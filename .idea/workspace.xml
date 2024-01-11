@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="1. Valid Parentheses">
-      <change afterPath="$PROJECT_DIR$/src/stack/ImplementQueueUsingStacks.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="2. Implement Queue Using Stacks">
+      <change afterPath="$PROJECT_DIR$/src/stack/BackspaceStringCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,40 +45,6 @@
     "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreeSumClosest">
-    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SubarraySumEqualsK" />
-      <module name="TechInterviewHandbook169" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ThreeSumClosest" />
-      <module name="TechInterviewHandbook169" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ThreeSumClosest" />
-        <item itemvalue="Application.SubarraySumEqualsK" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -279,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704850315487</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2. Implement Queue Using Stacks">
+      <option name="closed" value="true" />
+      <created>1704860221207</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704860221207</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +291,8 @@
     <MESSAGE value="24. Sliding Window Maximum" />
     <MESSAGE value="Moving Package arrays to array" />
     <MESSAGE value="1. Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Valid Parentheses" />
+    <MESSAGE value="2. Implement Queue Using Stacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Implement Queue Using Stacks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
