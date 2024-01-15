@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="6. Daily Temperatures">
-      <change afterPath="$PROJECT_DIR$/src/stack/DecodeString.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="7. Decode String">
+      <change afterPath="$PROJECT_DIR$/src/stack/AsteroidCollision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +46,6 @@
     "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.DecodeString" />
-      <module name="TechInterviewHandbook169" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DecodeString" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -306,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705055429368</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="7. Decode String">
+      <option name="closed" value="true" />
+      <created>1705306780054</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1705306780054</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +309,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4. Contains Duplicate" />
     <MESSAGE value="6. Move Zeroes" />
     <MESSAGE value="7. Squares Of A Sorted Array" />
     <MESSAGE value="8. Insert Interval" />
@@ -346,7 +333,8 @@
     <MESSAGE value="4. Evaluate Reverse Polish Notation" />
     <MESSAGE value="5. Min Stack" />
     <MESSAGE value="6. Daily Temperatures" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. Daily Temperatures" />
+    <MESSAGE value="7. Decode String" />
+    <option name="LAST_COMMIT_MESSAGE" value="7. Decode String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
