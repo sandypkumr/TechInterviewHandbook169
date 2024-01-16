@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="7. Decode String">
-      <change afterPath="$PROJECT_DIR$/src/stack/AsteroidCollision.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="8. Asteroid Collision">
+      <change afterPath="$PROJECT_DIR$/src/stack/BasicCalculator2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BasicCalculator2.executor": "Run",
     "Application.DecodeString.executor": "Run",
     "Application.SubarraySumEqualsK.executor": "Debug",
     "Application.ThreeSumClosest.executor": "Run",
@@ -294,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705306780054</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="8. Asteroid Collision">
+      <option name="closed" value="true" />
+      <created>1705318692418</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1705318692418</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,7 +318,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="6. Move Zeroes" />
     <MESSAGE value="7. Squares Of A Sorted Array" />
     <MESSAGE value="8. Insert Interval" />
     <MESSAGE value="9. 3Sum" />
@@ -334,7 +342,8 @@
     <MESSAGE value="5. Min Stack" />
     <MESSAGE value="6. Daily Temperatures" />
     <MESSAGE value="7. Decode String" />
-    <option name="LAST_COMMIT_MESSAGE" value="7. Decode String" />
+    <MESSAGE value="8. Asteroid Collision" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. Asteroid Collision" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
