@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="8. Asteroid Collision">
-      <change afterPath="$PROJECT_DIR$/src/stack/BasicCalculator2.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="9. Basic Calculator II">
+      <change afterPath="$PROJECT_DIR$/src/stack/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
       </set>
     </attachedChunks>
   </component>
@@ -303,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705318692418</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="9. Basic Calculator II">
+      <option name="closed" value="true" />
+      <created>1705421725531</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1705421725531</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +327,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7. Squares Of A Sorted Array" />
     <MESSAGE value="8. Insert Interval" />
     <MESSAGE value="9. 3Sum" />
     <MESSAGE value="10. Product of Array Except Self" />
@@ -343,7 +351,8 @@
     <MESSAGE value="6. Daily Temperatures" />
     <MESSAGE value="7. Decode String" />
     <MESSAGE value="8. Asteroid Collision" />
-    <option name="LAST_COMMIT_MESSAGE" value="8. Asteroid Collision" />
+    <MESSAGE value="9. Basic Calculator II" />
+    <option name="LAST_COMMIT_MESSAGE" value="9. Basic Calculator II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
