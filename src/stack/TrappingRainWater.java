@@ -1,23 +1,23 @@
 package stack;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
-
 public class TrappingRainWater {
     public int trap(int[] height) {
-        Deque<Integer> barDeque = new ArrayDeque<>();
         int res = 0;
-        for (int i = 0; i < height.length; i++) {
-            int prev = 0;
-            while (!barDeque.isEmpty() && height[barDeque.peek()] <= height[i]) {
-                int curIndex = barDeque.pop();
-                res += (i-curIndex-1) * (height[curIndex] - prev);
-                prev = height[curIndex];
+        int maxL = height[0], maxR = height[height.length - 1], lIndex = 0, rIndex = height.length - 1;
+        while (lIndex < rIndex) {
+            if (maxL <= maxR) {
+                if (height[++lIndex] < maxL) {
+                    res += maxL - height[lIndex];
+                } else {
+                    maxL = height[lIndex];
+                }
+            } else {
+                if (height[--rIndex] < maxR) {
+                    res += maxR - height[rIndex];
+                } else {
+                    maxR = height[rIndex];
+                }
             }
-            if (!barDeque.isEmpty()) {
-                res += (i - barDeque.peek() - 1) * (height[i] - prev);
-            }
-            barDeque.push(i);
         }
         return res;
     }
