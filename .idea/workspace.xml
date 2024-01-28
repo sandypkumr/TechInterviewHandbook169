@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="10. Trapping Rain Water">
-      <change afterPath="$PROJECT_DIR$/src/stack/BasicCalculator.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="11. Basic Calculator">
+      <change afterPath="$PROJECT_DIR$/src/stack/LargestRectangleInHistogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/TrappingRainWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2a89v6BXc0XJ8kAIrT0Er3EazjB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,6 +39,7 @@
   "keyToString": {
     "Application.BasicCalculator2.executor": "Run",
     "Application.DecodeString.executor": "Run",
+    "Application.LargestRectangleInHistogram.executor": "Run",
     "Application.SubarraySumEqualsK.executor": "Debug",
     "Application.ThreeSumClosest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -47,6 +49,26 @@
     "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LargestRectangleInHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.LargestRectangleInHistogram" />
+      <module name="TechInterviewHandbook169" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LargestRectangleInHistogram" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -320,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705929988626</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="11. Basic Calculator">
+      <option name="closed" value="true" />
+      <created>1706087873720</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706087873720</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9. 3Sum" />
     <MESSAGE value="10. Product of Array Except Self" />
     <MESSAGE value="11. Combination Sum" />
     <MESSAGE value="12. Merge Intervals" />
@@ -360,7 +389,8 @@
     <MESSAGE value="8. Asteroid Collision" />
     <MESSAGE value="9. Basic Calculator II" />
     <MESSAGE value="10. Trapping Rain Water" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. Trapping Rain Water" />
+    <MESSAGE value="11. Basic Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="11. Basic Calculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
