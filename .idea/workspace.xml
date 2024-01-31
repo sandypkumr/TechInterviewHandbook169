@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="11. Basic Calculator">
-      <change afterPath="$PROJECT_DIR$/src/stack/LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/MaximumFrequencyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/TrappingRainWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Application.BasicCalculator2.executor": "Run",
     "Application.DecodeString.executor": "Run",
     "Application.LargestRectangleInHistogram.executor": "Run",
+    "Application.MaximumFrequencyStack.executor": "Debug",
     "Application.SubarraySumEqualsK.executor": "Debug",
     "Application.ThreeSumClosest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -49,26 +49,6 @@
     "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="LargestRectangleInHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.LargestRectangleInHistogram" />
-      <module name="TechInterviewHandbook169" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LargestRectangleInHistogram" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
