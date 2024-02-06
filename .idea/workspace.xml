@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="14. Longest Valid Parentheses">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/MergeTwoSortedLists.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="1. Merge Two Sorted Lists">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/LinkedListCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707041461654</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="1. Merge Two Sorted Lists">
+      <option name="closed" value="true" />
+      <created>1707150536657</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1707150536657</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12. Merge Intervals" />
     <MESSAGE value="13. Sort Colors" />
     <MESSAGE value="14. Container With Most Water" />
     <MESSAGE value="15. Gas Station" />
@@ -386,7 +393,8 @@
     <MESSAGE value="11. Basic Calculator" />
     <MESSAGE value="13. Maximum Frequency Stack" />
     <MESSAGE value="14. Longest Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="14. Longest Valid Parentheses" />
+    <MESSAGE value="1. Merge Two Sorted Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Merge Two Sorted Lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
