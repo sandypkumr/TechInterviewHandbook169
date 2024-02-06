@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="3. Reverse Linked List">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/MiddleOfTheLinkedList.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="4. Middle Of The Linked List">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/PalindromeLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -370,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707184899487</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="4. Middle Of The Linked List">
+      <option name="closed" value="true" />
+      <created>1707188971154</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1707188971154</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="15. Gas Station" />
     <MESSAGE value="16. Longest Consecutive Sequence" />
     <MESSAGE value="17. Rotate Array" />
     <MESSAGE value="18. Contiguous Array" />
@@ -410,7 +417,8 @@
     <MESSAGE value="1. Merge Two Sorted Lists" />
     <MESSAGE value="2.Linked List Cycle" />
     <MESSAGE value="3. Reverse Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. Reverse Linked List" />
+    <MESSAGE value="4. Middle Of The Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="4. Middle Of The Linked List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
