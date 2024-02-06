@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="2.Linked List Cycle">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/ReverseLinkedList.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="3. Reverse Linked List">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/MiddleOfTheLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -362,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707184034240</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="3. Reverse Linked List">
+      <option name="closed" value="true" />
+      <created>1707184899487</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1707184899487</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14. Container With Most Water" />
     <MESSAGE value="15. Gas Station" />
     <MESSAGE value="16. Longest Consecutive Sequence" />
     <MESSAGE value="17. Rotate Array" />
@@ -402,7 +409,8 @@
     <MESSAGE value="14. Longest Valid Parentheses" />
     <MESSAGE value="1. Merge Two Sorted Lists" />
     <MESSAGE value="2.Linked List Cycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.Linked List Cycle" />
+    <MESSAGE value="3. Reverse Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. Reverse Linked List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
