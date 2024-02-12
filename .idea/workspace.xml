@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="4. Middle Of The Linked List">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/PalindromeLinkedList.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="5. Palindrome Linked List">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,15 +41,18 @@
   "keyToString": {
     "Application.BasicCalculator2.executor": "Run",
     "Application.DecodeString.executor": "Run",
+    "Application.LRUCache.executor": "Debug",
     "Application.LargestRectangleInHistogram.executor": "Run",
     "Application.MaximumFrequencyStack.executor": "Debug",
     "Application.SubarraySumEqualsK.executor": "Debug",
     "Application.ThreeSumClosest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -378,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707188971154</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="5. Palindrome Linked List">
+      <option name="closed" value="true" />
+      <created>1707231069297</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1707231069297</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -393,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="16. Longest Consecutive Sequence" />
     <MESSAGE value="17. Rotate Array" />
     <MESSAGE value="18. Contiguous Array" />
     <MESSAGE value="19. Subarray Sum Equals K" />
@@ -418,7 +431,8 @@
     <MESSAGE value="2.Linked List Cycle" />
     <MESSAGE value="3. Reverse Linked List" />
     <MESSAGE value="4. Middle Of The Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. Middle Of The Linked List" />
+    <MESSAGE value="5. Palindrome Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. Palindrome Linked List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
