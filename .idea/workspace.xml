@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="7. Remove Nth Node From End Of List">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/SwapNodeInPairs.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="8. Swap Nodes In Pairs">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -408,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707795279164</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="8. Swap Nodes In Pairs">
+      <option name="closed" value="true" />
+      <created>1707803905863</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1707803905863</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="19. Subarray Sum Equals K" />
     <MESSAGE value="21. 3Sum Closest" />
     <MESSAGE value="22. Non-overlapping Intervals" />
     <MESSAGE value="24. Sliding Window Maximum" />
@@ -448,7 +455,8 @@
     <MESSAGE value="5. Palindrome Linked List" />
     <MESSAGE value="6. LRU Cache" />
     <MESSAGE value="7. Remove Nth Node From End Of List" />
-    <option name="LAST_COMMIT_MESSAGE" value="7. Remove Nth Node From End Of List" />
+    <MESSAGE value="8. Swap Nodes In Pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. Swap Nodes In Pairs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
