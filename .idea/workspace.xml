@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="6. LRU Cache">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/RemoveNthNodeFromEndOfList.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="7. Remove Nth Node From End Of List">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/SwapNodeInPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -400,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707756097858</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="7. Remove Nth Node From End Of List">
+      <option name="closed" value="true" />
+      <created>1707795279164</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1707795279164</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18. Contiguous Array" />
     <MESSAGE value="19. Subarray Sum Equals K" />
     <MESSAGE value="21. 3Sum Closest" />
     <MESSAGE value="22. Non-overlapping Intervals" />
@@ -440,7 +447,8 @@
     <MESSAGE value="4. Middle Of The Linked List" />
     <MESSAGE value="5. Palindrome Linked List" />
     <MESSAGE value="6. LRU Cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. LRU Cache" />
+    <MESSAGE value="7. Remove Nth Node From End Of List" />
+    <option name="LAST_COMMIT_MESSAGE" value="7. Remove Nth Node From End Of List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
