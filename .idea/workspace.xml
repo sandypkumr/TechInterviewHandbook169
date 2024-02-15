@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="9. Odd Even Linked List">
-      <change afterPath="$PROJECT_DIR$/src/linked_list/AddTwoNumbers.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="10. Add Two Numbers">
+      <change afterPath="$PROJECT_DIR$/src/linked_list/SortList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicCalculator2.executor": "Run",
-    "Application.DecodeString.executor": "Run",
-    "Application.LRUCache.executor": "Debug",
-    "Application.LargestRectangleInHistogram.executor": "Run",
-    "Application.MaximumFrequencyStack.executor": "Debug",
-    "Application.SubarraySumEqualsK.executor": "Debug",
-    "Application.ThreeSumClosest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicCalculator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRUCache.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumFrequencyStack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubarraySumEqualsK.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreeSumClosest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -424,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707829577602</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="10. Add Two Numbers">
+      <option name="closed" value="true" />
+      <created>1707838113471</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1707838113471</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +447,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="22. Non-overlapping Intervals" />
     <MESSAGE value="24. Sliding Window Maximum" />
     <MESSAGE value="Moving Package arrays to array" />
     <MESSAGE value="1. Valid Parentheses" />
@@ -464,7 +471,8 @@
     <MESSAGE value="7. Remove Nth Node From End Of List" />
     <MESSAGE value="8. Swap Nodes In Pairs" />
     <MESSAGE value="9. Odd Even Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="9. Odd Even Linked List" />
+    <MESSAGE value="10. Add Two Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="10. Add Two Numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
