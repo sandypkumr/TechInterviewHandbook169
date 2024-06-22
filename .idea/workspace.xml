@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="5. Longest Substring Without Repeating Characters">
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="10. Longest Repeating Character Replacement">
+      <change afterPath="$PROJECT_DIR$/src/string/LargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sandypkumr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sandypkumr/TechInterviewHandbook169.git",
+    "accountId": "05e7724c-3250-4578-960e-9836902396a2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -36,34 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicCalculator2.executor": "Run",
-    "Application.DecodeString.executor": "Run",
-    "Application.LRUCache.executor": "Debug",
-    "Application.LargestRectangleInHistogram.executor": "Run",
-    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Debug",
-    "Application.MaximumFrequencyStack.executor": "Debug",
-    "Application.ReorderList.executor": "Debug",
-    "Application.SubarraySumEqualsK.executor": "Debug",
-    "Application.ThreeSumClosest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicCalculator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRUCache.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstringWithoutRepeatingCharacters.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaximumFrequencyStack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReorderList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubarraySumEqualsK.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreeSumClosest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,46 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703689567648</updated>
-    </task>
-    <task id="LOCAL-00006" summary="7. Squares Of A Sorted Array">
-      <option name="closed" value="true" />
-      <created>1704298278443</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1704298278443</updated>
-    </task>
-    <task id="LOCAL-00007" summary="8. Insert Interval">
-      <option name="closed" value="true" />
-      <created>1704450739635</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1704450739636</updated>
-    </task>
-    <task id="LOCAL-00008" summary="9. 3Sum">
-      <option name="closed" value="true" />
-      <created>1704685234999</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1704685234999</updated>
-    </task>
-    <task id="LOCAL-00009" summary="10. Product of Array Except Self">
-      <option name="closed" value="true" />
-      <created>1704686087375</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1704686087375</updated>
-    </task>
-    <task id="LOCAL-00010" summary="11. Combination Sum">
-      <option name="closed" value="true" />
-      <created>1704703349794</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1704703349794</updated>
     </task>
     <task id="LOCAL-00011" summary="12. Merge Intervals">
       <option name="closed" value="true" />
@@ -465,7 +433,47 @@
       <option name="project" value="LOCAL" />
       <updated>1708705759953</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="6. String to Integer (atoi)">
+      <option name="closed" value="true" />
+      <created>1708870840636</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1708870840636</updated>
+    </task>
+    <task id="LOCAL-00056" summary="7. Longest Palindromic Substring">
+      <option name="closed" value="true" />
+      <created>1708878854472</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1708878854473</updated>
+    </task>
+    <task id="LOCAL-00057" summary="8. Find All Anagrams In A String">
+      <option name="closed" value="true" />
+      <created>1708919098955</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1708919098955</updated>
+    </task>
+    <task id="LOCAL-00058" summary="9. Group Anagrams">
+      <option name="closed" value="true" />
+      <created>1708967989218</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1708967989219</updated>
+    </task>
+    <task id="LOCAL-00059" summary="10. Longest Repeating Character Replacement">
+      <option name="closed" value="true" />
+      <created>1709005795191</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1709005795191</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,11 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8. Asteroid Collision" />
-    <MESSAGE value="9. Basic Calculator II" />
-    <MESSAGE value="10. Trapping Rain Water" />
-    <MESSAGE value="11. Basic Calculator" />
-    <MESSAGE value="13. Maximum Frequency Stack" />
     <MESSAGE value="14. Longest Valid Parentheses" />
     <MESSAGE value="1. Merge Two Sorted Lists" />
     <MESSAGE value="2.Linked List Cycle" />
@@ -505,7 +508,12 @@
     <MESSAGE value="3. Longest Palindrome" />
     <MESSAGE value="4. Longest Common Prefix" />
     <MESSAGE value="5. Longest Substring Without Repeating Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Longest Substring Without Repeating Characters" />
+    <MESSAGE value="6. String to Integer (atoi)" />
+    <MESSAGE value="7. Longest Palindromic Substring" />
+    <MESSAGE value="8. Find All Anagrams In A String" />
+    <MESSAGE value="9. Group Anagrams" />
+    <MESSAGE value="10. Longest Repeating Character Replacement" />
+    <option name="LAST_COMMIT_MESSAGE" value="10. Longest Repeating Character Replacement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
