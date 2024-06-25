@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="10. Longest Repeating Character Replacement">
-      <change afterPath="$PROJECT_DIR$/src/string/LargestNumber.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="Largest Number">
+      <change afterPath="$PROJECT_DIR$/src/matrix/SpiralMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sandypkumr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sandypkumr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sandypkumr/TechInterviewHandbook169.git",
-    "accountId": "05e7724c-3250-4578-960e-9836902396a2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sandypkumr/TechInterviewHandbook169.git&quot;,
+    &quot;accountId&quot;: &quot;05e7724c-3250-4578-960e-9836902396a2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -69,7 +69,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703689567648</updated>
-    </task>
-    <task id="LOCAL-00011" summary="12. Merge Intervals">
-      <option name="closed" value="true" />
-      <created>1704709640794</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1704709640794</updated>
     </task>
     <task id="LOCAL-00012" summary="13. Sort Colors">
       <option name="closed" value="true" />
@@ -473,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709005795191</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Largest Number">
+      <option name="closed" value="true" />
+      <created>1719036361236</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1719036361237</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="14. Longest Valid Parentheses" />
     <MESSAGE value="1. Merge Two Sorted Lists" />
     <MESSAGE value="2.Linked List Cycle" />
     <MESSAGE value="3. Reverse Linked List" />
@@ -513,7 +512,8 @@
     <MESSAGE value="8. Find All Anagrams In A String" />
     <MESSAGE value="9. Group Anagrams" />
     <MESSAGE value="10. Longest Repeating Character Replacement" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. Longest Repeating Character Replacement" />
+    <MESSAGE value="Largest Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Largest Number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
