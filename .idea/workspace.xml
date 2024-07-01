@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="Rotate Image">
-      <change afterPath="$PROJECT_DIR$/src/matrix/SetMatrixZeroes.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="Set Matrix Zeroes">
+      <change afterPath="$PROJECT_DIR$/src/matrix/SudokuSolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703689567648</updated>
-    </task>
-    <task id="LOCAL-00015" summary="16. Longest Consecutive Sequence">
-      <option name="closed" value="true" />
-      <created>1704722925439</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1704722925439</updated>
     </task>
     <task id="LOCAL-00016" summary="17. Rotate Array">
       <option name="closed" value="true" />
@@ -473,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719844616803</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Set Matrix Zeroes">
+      <option name="closed" value="true" />
+      <created>1719846534414</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1719846534415</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4. Middle Of The Linked List" />
     <MESSAGE value="5. Palindrome Linked List" />
     <MESSAGE value="6. LRU Cache" />
     <MESSAGE value="7. Remove Nth Node From End Of List" />
@@ -513,7 +512,8 @@
     <MESSAGE value="Spiral Matrix" />
     <MESSAGE value="Valid Sudoku" />
     <MESSAGE value="Rotate Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rotate Image" />
+    <MESSAGE value="Set Matrix Zeroes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Matrix Zeroes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
