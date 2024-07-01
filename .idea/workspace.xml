@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="Valid Sudoku">
-      <change afterPath="$PROJECT_DIR$/src/matrix/RotateImage.java" afterDir="false" />
+    <list default="true" id="7ac32923-38df-4730-86c3-8b21fc69d74a" name="Changes" comment="Rotate Image">
+      <change afterPath="$PROJECT_DIR$/src/matrix/SetMatrixZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicCalculator2.executor": "Run",
-    "Application.DecodeString.executor": "Run",
-    "Application.LRUCache.executor": "Debug",
-    "Application.LargestRectangleInHistogram.executor": "Run",
-    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Debug",
-    "Application.MaximumFrequencyStack.executor": "Debug",
-    "Application.ReorderList.executor": "Debug",
-    "Application.SubarraySumEqualsK.executor": "Debug",
-    "Application.ThreeSumClosest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicCalculator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LRUCache.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstringWithoutRepeatingCharacters.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaximumFrequencyStack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReorderList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubarraySumEqualsK.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ThreeSumClosest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sandeepkumar.pabba/IdeaProjects/TechInterviewHandbook169/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703689567648</updated>
-    </task>
-    <task id="LOCAL-00014" summary="15. Gas Station">
-      <option name="closed" value="true" />
-      <created>1704720313338</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1704720313338</updated>
     </task>
     <task id="LOCAL-00015" summary="16. Longest Consecutive Sequence">
       <option name="closed" value="true" />
@@ -473,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719390169263</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Rotate Image">
+      <option name="closed" value="true" />
+      <created>1719844616802</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1719844616803</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3. Reverse Linked List" />
     <MESSAGE value="4. Middle Of The Linked List" />
     <MESSAGE value="5. Palindrome Linked List" />
     <MESSAGE value="6. LRU Cache" />
@@ -513,7 +512,8 @@
     <MESSAGE value="Largest Number" />
     <MESSAGE value="Spiral Matrix" />
     <MESSAGE value="Valid Sudoku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Sudoku" />
+    <MESSAGE value="Rotate Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotate Image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
